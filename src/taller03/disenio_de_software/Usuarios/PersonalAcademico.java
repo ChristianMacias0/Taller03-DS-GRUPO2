@@ -7,6 +7,7 @@ public class PersonalAcademico extends  Usuario {
     //Metodos
     public void reportarError(String email, String contenido){
         //code logic
+        // deberia crear un incidente.
     }
     public void solicitarAsesoramientoDelSistema(String email, String contenido){
         //code logic

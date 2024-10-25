@@ -6,4 +6,6 @@
 
 ## Diagramas
 
-![Diagrama 1](Diagramas/Reportar problema del sistema.png)
+![Diagrama 1](Diagramas/Reportar_problema_del_sistema.png)
+
+![Diagrama 2](Diagramas/Cargar_Material_Educativo.png)
